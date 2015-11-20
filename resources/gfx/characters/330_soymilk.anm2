@@ -1,0 +1,27 @@
+<AnimatedActor>
+	<Info CreatedBy="robot" CreatedOn="14/03/2014 6:11:55 PM" Fps="30" Version="105" />
+	<Content>
+		<Spritesheets>
+			<Spritesheet Id="0" Path="costumes\null.png" />
+		</Spritesheets>
+		<Layers>
+			<Layer Id="0" Name="body0" SpritesheetId="0" />
+		</Layers>
+		<Nulls />
+		<Events />
+	</Content>
+	<Animations DefaultAnimation="HeadDown">
+		<Animation FrameNum="1" Loop="false" Name="HeadDown">
+			<RootAnimation>
+				<Frame AlphaTint="255" BlueOffset="0" BlueTint="255" Delay="1" GreenOffset="0" GreenTint="255" RedOffset="0" RedTint="255" Rotation="0" Visible="false" XPosition="0" XScale="0" YPosition="0" YScale="0" />
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="false">
+					<Frame AlphaTint="255" BlueOffset="0" BlueTint="255" Delay="1" GreenOffset="0" GreenTint="255" RedOffset="0" RedTint="255" Rotation="0" Visible="false" XPosition="0" XScale="0" YPosition="0" YScale="0" />
+				</LayerAnimation>
+			</LayerAnimations>
+			<NullAnimations />
+			<Triggers />
+		</Animation>
+	</Animations>
+</AnimatedActor>

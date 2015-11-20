@@ -1,0 +1,66 @@
+	0.11
+Alpha1
+	0.12
+小绝初始道具增加 cricket's head
+将宝宝拿起之前的图标还原
+	0.13
+妈刀与献祭刀替换为钻石剑
+大Pi初始+1蓝心
+陆夫人增加满分眼镜
+人物选择画面提示初始道具
+	0.14
+大当家增加Gnawed Leaf
+	0.15
+Bug Fix
+	0.16
+小绝初始道具由狗头cricket's head改为圣心sacred heart+拔粪宝petrified poop
+铃铛初始道具增加白马
+拔粪宝petrified poop贴图替换
+	0.17
+大当家起始三颗魂心 可以召唤2P 受伤三次后死亡
+	0.18
+替换大小姐/二小姐BGM
+修复铲子CD
+dry baby 替换一方通行
+死鸟替换小马
+	0.19
+Alpha2
+铃铛角色贴图
+铃铛增加红美铃mongobaby
+	0.20
+陆夫人炸弹颜色更改更醒目
+白恶魔的头充能改为6格
+	0.21
+起始房间背景
+陆夫人增加婴儿博士
+	0.22
+Alpha3
+小黑角色贴图 初始道具：传送器 megasatan房间的钥匙 Godhead
+更换godhead子弹背景
+	0.23
+守护宝宝=上条当麻
+bumfriend/darkbum 小圆 晓美焰
+	0.24
+Widow=庞麦郎
+新的妈腿
+	0.25
+删除了庞麦郎
+白猫头=阿狸
+lust=白井黑子
+pride=葛平
+	0.26
+左手=小右
+挑战20=带球撞人
+	0.27
+挑战19=梦想封印
+Afterbrith	1.00
+支持Afterbirth
+奶茶
+	1.02
+支持keeper
+	1.03
+修复maggy cain judas贴图
+	1.04
+贴图修复完成
+	1.05
+普通人与甜食
