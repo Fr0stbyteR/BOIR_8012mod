@@ -361,7 +361,7 @@
 	<active achievement="203" cache="familiars" description="Double your friends" gfx="Collectibles_357_PandorasBox.png" id="357" maxcharges="4" name="Box of Friends" />
 	<passive cache="tearflag" description="Double wiz shot!" gfx="Collectibles_358_TheWiz.png" id="358" name="The Wiz" />
 	<passive cache="damage tearflag" description="Stick it to 'em!" gfx="Collectibles_359_8InchNails.png" id="359" name="8 Inch Nails" />
-	<familiar achievement="190" description="Dark friend" devilprice="2" gfx="Collectibles_360_Incubus.png" id="360" name="Incubus" />
+	<familiar achievement="190" description="Sukuna Shinmyoumaru - Dark friend" devilprice="2" gfx="Collectibles_360_Incubus.png" id="360" name="Incubus" />
 	<familiar achievement="183" description="Your fate beside you" gfx="Collectibles_361_FatesReward.png" id="361" name="Fate's reward" />
 	<familiar achievement="192" description="What's in the box?" gfx="Collectibles_362_LilChest.png" id="362" name="Lil Chest" />
 	<familiar achievement="189" description="Protective friend" gfx="Collectibles_363_SwornProtector.png" id="363" name="Sworn Protector" />
