@@ -66,3 +66,5 @@ Afterbrith	1.00
 普通人与甜食
 	1.06
 incubus=针妙丸
+	1.07
+修改basement/cellar/burning basement的BGM为okawari的歌曲
